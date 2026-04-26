@@ -197,7 +197,7 @@ void tensor_print(const Tensor *tensor) {
     }
 }
 
-/*
+/**
  * This function performs matrix multiplication on two 2D tensors
  * @param out: A pointer to the output tensor
  * @param a: A pointer to the first input tensor
